@@ -669,12 +669,14 @@ textarea:valid~label  {
       margin-right:60px;
 	  margin-top: 20px;
       padding-top:15px ;
+	  
     }
     .nav > .nav-btn > label {
       display: inline-block;
       width: 50px;
       height: 50px;
       padding: 13px;
+	  cursor: pointer;
     }
     .nav > .nav-btn > label:hover,.nav  #nav-check:checked ~ .nav-btn > label {
       background-color: #000000;
